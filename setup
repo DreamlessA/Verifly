@@ -1,0 +1,4 @@
+# energymeter
+export COGNITIVE_SERVICE_KEY=bc9ce79921f445edb8e2f637694e0dd1
+export COGNITIVE_SERVICE_ENDPOINT=https://westus2.api.cognitive.microsoft.com/
+source ~/.bashrc
